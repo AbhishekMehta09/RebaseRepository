@@ -30,7 +30,7 @@ H3llo2
                      <i class="icon-chevron-up filter-status"></i>
                  </a>
              </div>
-
+==========master 4===============	     
 			<select name="filterCategory" id="filterCategory" label="" class="filter-sort" onchange="getListofArticles(null, null, 1);">
 				<option value="modifiedDate">Modified Date</option>
 				<option value="createDate">Create Date</option>
