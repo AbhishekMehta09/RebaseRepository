@@ -10,6 +10,7 @@ Hello1 & Hello2 both
 
 H3llo2
 
+==========master 2===============
 <c:choose>
 	<c:when test="${structureName eq 'Omnidesk_DigitalChannel_Structure' }">
 		<div class="channels dotted-bg">	
